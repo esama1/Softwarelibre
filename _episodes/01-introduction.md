@@ -2,11 +2,11 @@
 title: "Introducción"
 teaching: 15
 exercises: 2
-questions: Hola
+questions: 
 - "Key question"
-objectives: Hacer uso de los programas con Software Libre para la introducción de términos matemáticos en Secundaria.
+objectives: 
 - "First objective."
-keypoints: Comenzar a usar eso
+keypoints: 
 - "First key point."
 ---
 En este trabajo queremos que los alumnos de la ESO comiencen a usar determinados programas para que les facilite su aprendizaje en matemáticas. Para ello, nos disponemos a enseñar las herramientas necesarias para conocerlos y la introducción de estos en las aulas.
