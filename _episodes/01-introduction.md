@@ -3,11 +3,12 @@ title: "Introducción"
 teaching: 15
 exercises: 2
 questions: 
-- "Key question"
+- "Hacer uso del Software Libre en clase de Matemáticas"
 objectives: 
-- "First objective."
+- "Que aprendan conceptos básicos de Matemáticas en ESO"
 keypoints: 
-- "First key point."
+- "Trabajar con programas con licencia libre"
+- "Realización de ejercicios"
 ---
 En este trabajo queremos que los alumnos de la ESO comiencen a usar determinados programas para que les facilite su aprendizaje en matemáticas. Para ello, nos disponemos a enseñar las herramientas necesarias para conocerlos y la introducción de estos en las aulas.
 * Motivación:
