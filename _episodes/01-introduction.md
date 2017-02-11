@@ -32,28 +32,135 @@ comprometen a colaborar conjuntamente. Aunque actualmente en Extremadura se deno
 
 Si buscamos la versión que tienen los alumnos de Andalucía en el portatil que les proporcionó la Junta de Andalucia, vemos que dicha versión es Guadalinex-edu y que trae numerosas aplicaciones dedicadas a la enseñanza que no encontramos en las versión base de Guadalinex. Veremos a continuación las aplicaciones que trae para la clase de matemáticas, haciendo una breve reseña de su utilidad y planteando posteriormente algunos ejercicios con dichas aplicaciones en la unidad didáctica.
 
-	- CaRMetal: Geometría
-	- GeoGebra: Geometría
-	- Kig: Geometría (representación de rectas y puntos)
-	- Octave: Similar a Matlab
-	- QtOctave: Qoctave con interfaz más intuitiva
-	- R: 
-	- Scilab: Similar a Mathematica
-	- Maxima: Similar a Mathematica
-	- KAlgebra: Funciones (2D y 3D)
-	- KBruch: Fracciones
-	- Kmplot: Funciones (cálculo de máximos y mínimos)
-	- Kseg: 
-	- Mathwar: Juego de cálculo mental
-	- Qalculate: Calculadora
+-- CaRMetal: Geometría
 
+La barra de herramientas contiene los diferentes elementos que pueden insertarse en el área de dibujo: rectas, semirectas, paralelas, perpendiculares, segmentos, polígonos, ángulos, etcétera.
+	
+	Para dibujar basta con colocar puntos sobre la superficie del programa.
+	
+	Además, es posible realizar cálculos matemáticos complejos como funciones y fórmulas. También es posible añadir texto sobre la superficie de la representación y obtener información sobre cada uno de los puntos creados. El proyecto puede ser exportado a diferentes formatos, entre ellos EPS, SVG y PNG.
+	
+/home/estefania/Descargas/Software/Software versiвn sandra/carmetal.jpg
+
+-- GeoGebra: Geometría
+
+GeoGebra es un software de matemáticas dinámicas para todos los niveles educativos que reúne geometría, álgebra, hoja de cálculo, gráficos, estadística y cálculo en un solo programa fácil de usar.	
+
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{geogebra.png}
+	\end{center}
+
+-- Kig: Geometría (representación de rectas y puntos)
+
+	Kig es un programa de KDE usado como software de geometría interactiva.
+	Permite a los estudiantes explorar construcciones geométricas usando el ordenador. Sirve como herramienta 
+	WYSIWYG para dibujar figuras matemáticas e incluirlas en otros documentos.
+		\begin{center}
+			\includegraphics[width=0.7\linewidth]{kig.png}
+		\end{center}
+
+-- Octave: 
+
+
+	 Es un programa para realizar cálculos numéricos. Es considerado el equivalente libre de MATLAB, ambos ofrecen un intérprete, permitiendo ejecutar órdenes en modo interactivo. Octave no es un sistema de álgebra computacional, como lo es Maxima, sino que está orientado al análisis numérico permitiendo además la representación de funciones en 2D y 3D. 
+	 
+	 \begin{center}
+	 	\includegraphics[width=0.7\linewidth]{octave.png}
+	 \end{center}
+
+-- QtOctave: interfaz de Octave
+
+ Es una herramienta que facilita al usuario la comunicación con Octave. 
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{qtoctave.png}
+	\end{center}
+
+-- R: Estadística
+
+	R es un entorno y lenguaje de programación enfocado al análisis estadístico. Sus principales funciones son el manejo de datos, los cálculos estadísticos y las representaciones gráficas.
+	
+		\begin{center}
+			\includegraphics[width=0.7\linewidth]{R.png}
+		\end{center}
+
+
+-- Scilab: Similar a Mathematica
+
+Scilab es un software libre y de código abierto para computación numérica que proporciona un potente entorno de computación para aplicaciones científicas y de ingeniería. Incluye cientos de funciones matemáticas. Tiene un lenguaje de programación de alto nivel que permite el acceso a estructuras avanzadas de datos, funciones gráficas 2-D y 3-D.
+	
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{scilab.jpg}
+	\end{center}
+
+-- Maxima: Similar a Mathematica
+
+Maxima es un sistema para la manipulación de expresiones simbólicas y numéricas, incluyendo diferenciación, integración, expansión en series de Taylor, transformadas de Laplace, ecuaciones diferenciales ordinarias, sistemas de ecuaciones lineales, vectores, matrices y tensores. Adicionalmente puede graficar funciones y datos en dos y tres dimensiones.
+	
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{maxima.jpg}
+	\end{center}
+
+-- KAlgebra: Funciones (2D y 3D)
+
+KAlgebra es una calculadora completa que le permite trazar diferentes tipos de funciones 2D y 3D. Además es posible hacer cálculos básicos, cálculos con funciones trigonométricas y derivadas.
+	
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{kalgebra.png}
+	\end{center}
+
+-- KBruch: Fracciones
+
+	KBruch es un pequeño programa para practicar el cálculo con fracciones. Por lo tanto, se ofrecen 4 ejercicios diferentes. Ejercicios de operaciones con fracciones, comparación de fracciones, ejercicios de convertir números en fracciones y factorización de números en sus factores primos.
+	
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{kbruch.png}
+	\end{center}
+
+-- Kmplot: Funciones (cálculo de máximos y mínimos)
+
+	KmPlot es un trazador de funciones matemáticas. Puede trazar diferentes funciones simultáneamente y combinar sus términos de función para crear nuevas funciones. KmPlot soporta funciones con parámetros y funciones en coordenadas polares. Son posibles varios modos de cuadrícula. 
+	
+		\begin{center}
+			\includegraphics[width=0.7\linewidth]{kmplot.png}
+		\end{center}
+
+-- Kseg: Geometría
+
+KSEG es un programa de geometría interactiva para explorar la geometría euclidiana.  KSEG se puede utilizar en el aula, para la exploración personal de geometría, o para hacer figuras de alta calidad para LaTeX. Es muy rápido, estable, y la interfaz de usuario ha sido diseñada para la eficiencia y la coherencia. 
+		
+		\begin{center}
+			\includegraphics[width=0.7\linewidth]{kseg.jpg}
+		\end{center}
+
+-- Mathwar: Juego de cálculo mental
+
+	MathWar es un juego para niños basado en el juego de cartas 'War' creado con el objetivo de hacer más divertido el aprendizaje de cálculo numérico. Nuestro objetivo es ir resolviendo los cálculos que se nos van mostrando en pantalla antes de que se acabe el tiempo límite.
+
+	
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{mathwar.jpeg}
+	\end{center}
+
+-- Qalculate: Calculadora
+
+Qalculate! Es una calculadora de escritorio multiusos con mucha potencia y versatilidad. Las características incluyen funciones personalizables, unidades, precisión arbitraria y una interfaz fácil de usar. 
+		\begin{center}
+			\includegraphics[width=0.7\linewidth]{qcalculate.png}
+		\end{center}
+	
 - Herramientas de Oficina
 
 
 	- OpenOffice
 	- AdobeReader
-	- Cmap Tools: Sirve para que los alumnos realicen mapas conceptuales donde poder reflejar claramente las ideas principales de un determinado tema. Pondremos en práctica esta herramienta durante el desarrollo de la unidad didáctica.
-	- FreeMind: Tiene la misma finalidad que Cmap Tools
+	- Cmap Tools: Sirve para que los alumnos realicen mapas conceptuales donde poder reflejar claramente las ideas principales de un determinado tema. En la siguiente imagen podemos ver el funcionamiento tan intuitivo que tiene:
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{cmap.png}
+	\end{center}
+	- FreeMind: Tiene la misma finalidad que Cmap Tools. Sólo que el entorno es distinto, aunque igualmente cómodo de trabajar. Lo vemos en la siguiente imagen:
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{freemind.png}
+	\end{center}
 	- Diccionario
 
 
