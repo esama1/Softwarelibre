@@ -1,0 +1,32 @@
+<!DOCTYPE kmpdoc>
+<kmpdoc version="4">
+    <axes width="0.2" tic-legth="0.5" color="#282828" tic-width="0.3">
+        <show-axes>1</show-axes>
+        <show-arrows>1</show-arrows>
+        <show-label>1</show-label>
+        <xmin>-6.373480662983412</xmin>
+        <xmax>9.626519337016571</xmax>
+        <ymin>-3.011608623548844</ymin>
+        <ymax>12.98839137645115</ymax>
+    </axes>
+    <grid width="0.1" color="#aeaeae">
+        <mode>1</mode>
+    </grid>
+    <scale>
+        <tic-x-mode>0</tic-x-mode>
+        <tic-y-mode>0</tic-y-mode>
+        <tic-x>1</tic-x>
+        <tic-y>1</tic-y>
+    </scale>
+    <function f2-width="0.3" f2-use-gradient="0" f0-show-tangent-field="0" f0-show-plot-name="0" f1-width="0.3" f1-color="#191970" f2-show-plot-name="0" f2-style="SolidLine" f0-show-extrema="0" use-parameter-slider="0" integral-width="0.3" integral-gradient="0;#000000,1;#ffffff," f2-visible="0" integral-use-gradient="0" f1-visible="0" type="cartesian" f0-gradient="0;#000000,1;#ffffff," integral-show-extrema="0" f0-style="SolidLine" f1-use-gradient="0" f1-show-plot-name="0" integral-color="#191970" integral-show-tangent-field="0" f1-gradient="0;#000000,1;#ffffff," f2-show-extrema="0" f2-color="#191970" f0-color="#191970" integral-style="SolidLine" parameter-slider="0" f0-visible="1" f2-gradient="0;#000000,1;#ffffff," use-parameter-list="0" f2-show-tangent-field="0" integral-show-plot-name="0" integral-visible="0" f1-style="SolidLine" f1-show-extrema="0" f0-width="0.3" f1-show-tangent-field="0" f0-use-gradient="0">
+        <equation-0 step="0.05">f(x) = (x+2)/(x²+1+2x)<differential x="0" y="1"/>
+        </equation-0>
+        <arg-min use="1">−3</arg-min>
+        <arg-max use="1">3</arg-max>
+    </function>
+    <fonts>
+        <axes-font>Sans Serif</axes-font>
+        <label-font>Sans Serif</label-font>
+        <header-table-font>Sans Serif</header-table-font>
+    </fonts>
+</kmpdoc>
