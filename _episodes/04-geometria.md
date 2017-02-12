@@ -1,11 +1,11 @@
 ---
 title: "Geometría"
-teaching: 15
-exercises: 2
+teaching: 30
+exercises: 40
 questions: 
-- "Hacer uso del Software Libre en clase de Matemáticas"
+- "Conocer los conceptos más importantes de Geometría y las figuras geométricas básicas"
 objectives: 
-- "Que aprendan conceptos básicos de Matemáticas en ESO"
+- "Aquirir una visión espacial con la ayuda de programas con licencia libre"
 keypoints: 
 - "Trabajar con programas con licencia libre"
 - "Realización de ejercicios"
@@ -28,17 +28,19 @@ del ángulo.
 Tiene la propiedad de ser la semirrecta que divide al
 ángulo en dos ángulos iguales.
 
----
 
-__Actividades propuestas:__
+> 
+> ## Actividades propuestas:
+> 
+> 1. En el archivo mediatriz, elabora la bisectriz de los ángulos que se han formado. Posteriormente dibuja un ángulo de $45^{\circ}$ y dibuja su bisectriz. 
+> 
+> 2. Dibuja un ángulo dada su amplitud,  cambia los nombres de los vértices y dibuja su bisectriz.
+> 
+{: .challenge}
 
-1. En el archivo mediatriz, elabora la bisectriz de los ángulos que se han formado. Posteriormente dibuja un ángulo de $45^{\circ}$ y dibuja su bisectriz. 
-
-2. Dibuja un ángulo dada su amplitud,  cambia los nombres de los vértices y dibuja su bisectriz.
-
----
 
 ## 2. Rectas y puntos notables del triángulo
+
 - Circuncentro
 	
 Las **mediatrices de un triángulo** son las respectivas mediatrices de sus lados.
@@ -82,20 +84,19 @@ Las tres medianas de un triángulo se cortan en un punto G llamado **baricentro*
 Dado un triángulo cualquiera, el circuncentro (O), ortocentro (H) y baricentro (G) están alineados. La
 recta que pasa por ellos recibe el nombre de **recta de Euler**.
 
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. En el archivo puntos notables dibuja el circuncentro, incentro y el baricentro. Observa cómo varia la localización de estos puntos según el tipo de triángulo que dibujemos, para ello utiliza la opción de geogebra "Elige y mueve". 
+>	
+> 2. En el triángulo anterior, oculta todas las rectas auxiliares que has dibujado para la construcción de los puntos. Dibuja la circunferencia inscrita y circunscrita. 
+>	
+> 3. En este mismo triángulo dibuja la recta de Euler, observa que ocurre con esta recta según el tipo de triángulo que dibujemos. 
+> 
+{: .challenge}
 
-__Actividades propuestas:__
 
-
-1. En el archivo puntos notables dibuja el circuncentro, incentro y el baricentro. Observa cómo varia la localización de estos puntos según el tipo de triángulo que dibujemos, para ello utiliza la opción de geogebra "Elige y mueve". 
-	
-2. En el triángulo anterior, oculta todas las rectas auxiliares que has dibujado para la construcción de los puntos. Dibuja la circunferencia inscrita y circunscrita. 
-	
-3. En este mismo triángulo dibuja la recta de Euler, observa que ocurre con esta recta según el tipo de triángulo que dibujemos. 
-
----
-
-Puedes consultar en el \href{https://www.geogebra.org/m/gHPywphA}{siguiente link la guía de Geogebra} para ayudarte a completar tus ejercicios.
+Puedes consultar en [la página de GeoGebra](https://www.geogebra.org/m/gHPywphA ) para ayudarte a completar tus ejercicios.
 
 ## 3. Ángulos en la circunferencia
 
@@ -114,16 +115,16 @@ Puedes consultar en el \href{https://www.geogebra.org/m/gHPywphA}{siguiente link
 
 - **Ángulo circunscrito** es el ángulo que tiene su vértice en un punto exterior de la circunferencia y sus lados son tangentes a la misma. La medida de un ángulo circunscrito es igual a la semidiferencia de los arcos que abarca.
 
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. Dibuja en el fichero ángulos circunferencia el resto de los cuatro tipos de ángulos de manera que cada uno de ellos mida $34^{\circ}$. Dibújalos en color verde.
+> 
+{: .challenge}
 
-__Actividades propuestas:__
-
-
-1. Dibuja en el fichero ángulos circunferencia el resto de los cuatro tipos de ángulos de manera que cada uno de ellos mida $34^{\circ}$. Dibújalos en color verde.
-
----
 
 ## 4. Teorema de Pitágoras
+
 En todo triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los
 cuadrados de los catetos.
  $$h^2=a^2+b^2$$
@@ -137,24 +138,24 @@ El área del polígono regular construido sobre la hipotenusa de un triángulo
 rectángulo es igual a la suma de las áreas de los polígonos regulares, de igual
 número de lados que el anterior, construidos sobre los catetos.
 
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. En el fichero extensión de Pitágoras, hay dibujado un triángulo rectángulo dónde se aplica la extensión del teorema de Pitágoras con un pentágono regular. 
+> 
+> Repite el ejercicio para un hexágono y para un cuadrado. Piensa como puedes dibujar un triángulo que siempre sea rectángulo. (Pista: puedes utilizar la construcción recta perpendicular).
+> 
+{: .challenge}
 
-__Actividades propuestas:__
-
-1. En el fichero extensión de Pitágoras, hay dibujado un triángulo rectángulo dónde se aplica la extensión del teorema de Pitágoras con un pentágono regular. 
-
-	Repite el ejercicio para un hexágono y para un cuadrado. Piensa como puedes dibujar un triángulo que siempre sea rectángulo. (Pista: puedes utilizar la construcción recta perpendicular).
-
----
 
 ## 5. Área de figuras planas
 
- 
-
 - Rectángulo 
  	$A=b \cdot h$
+
 - Cuadrado
  	$A=a^2$
+
 - Paralelogramo
  	$A=b \cdot h$
  	
@@ -171,13 +172,12 @@ __Actividades propuestas:__
  	
  	$A= \frac{\mbox{perímetro} \cdot \mbox{apotema}}{2} $
 
----
-
-__Actividades propuestas:__
-
-1. Elabora un fichero en el geogebra, donde dibujes las figuras planas que se detallan anteriormente y halla el valor de su área. Comprueba que se verifica la fórmula.
-
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. Elabora un fichero en el geogebra, donde dibujes las figuras planas que se detallan anteriormente y halla el valor de su área. Comprueba que se verifica la fórmula.
+> 
+{: .challenge}
 
 ## 6. Longitudes y áreas de figuras circulares
 
@@ -194,13 +194,13 @@ __Actividades propuestas:__
 - $A_{\mbox{trapecio circular}}= \dfrac{\pi \cdot (R^2-r^2) \cdot \alpha}{360^{\circ}} $
 \end{itemize}
 
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. Elabora en el fichero de geogebra longitudes y áreas de figuras circulares, donde dibujes los sectores y las figuras circulares que se detallan anteriormente y halla el valor de su longitud o su área. Comprueba que se verifica la fórmula. NOTA: para calcular la longitud de un arco, hay que señalar el arco no los puntos que lo delimitan, en dicho caso geogebra calcula la distancia entre ambos puntos en línea recta. 
+> 
+{: .challenge}
 
-__Actividades propuestas:__
-
-1. Elabora en el fichero de geogebra longitudes y áreas de figuras circulares, donde dibujes los sectores y las figuras circulares que se detallan anteriormente y halla el valor de su longitud o su área. Comprueba que se verifica la fórmula. NOTA: para calcular la longitud de un arco, hay que señalar el arco no los puntos que lo delimitan, en dicho caso geogebra calcula la distancia entre ambos puntos en línea recta. 
-
----
 
 ## 7. Extensión del teorema de Pitágoras para figuras planas circulares
 
@@ -210,22 +210,21 @@ los catetos.
 $$A_{h}= A_{a}+ A_{b}$$
 
 
-\begin{center}
-	\includegraphics[width=0.3\linewidth]{geo1.png}
-\end{center}
+![geo1img](/../fig/geo1.png)
 
----
-
-__Actividades propuestas:__
-
-1. Comprueba que se verifica el teorema anterior, para ello elabora la construcción que se detalla anteriormente y observa que se verifica la igualdad. 
-
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. Comprueba que se verifica el teorema anterior, para ello elabora la construcción que se detalla anteriormente y observa que se verifica la igualdad. 
+> 
+{: .challenge}
 
 ## 8. Cuerpos geométricos
+
 **Cuerpos geométricos** son porciones de espacio limitadas por superficies planas o curvas.
 
 ## 9. Poliedros
+
 Un **poliedro** es un cuerpo geométrico que está limitado por cuatro o más polígonos.
 
 Los principales elementos de un poliedro son:
@@ -256,15 +255,15 @@ igual al número de aristas (A) más dos.
 
 $$C+V=A+2$$
 
----
-
-__Actividades propuestas:__
-
-1. En el archivo poliedros, comprueba que se verifica el teorema de Euler. Dibuja otros poliedros y comprueba que se verifica igualmente.  
-
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. En el archivo poliedros, comprueba que se verifica el teorema de Euler. Dibuja otros poliedros y comprueba que se verifica igualmente. 
+> 
+{: .challenge}
 
 ## 10. Cuerpos redondos
+
 Los cuerpos redondos de revolución se obtienen al girar una figura plana alrededor de un eje. Los tres cuerpos de
 revolución más sencillos son el cilindro, el cono y la esfera.
 
@@ -278,14 +277,12 @@ revolución más sencillos son el cilindro, el cono y la esfera.
 	se obtiene al girar un semicírculo alrededor
 	de su diámetro.
 
----
-
-__Actividades propuestas:__
-
-1. Dibuja varios cilindros, conos y esferas. ¿Cuál es el cuerpo geométrico que al girarlo en torno al eje da lugar a esa figura?  
-
-
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. Dibuja varios cilindros, conos y esferas. ¿Cuál es el cuerpo geométrico que al girarlo en torno al eje da lugar a esa figura?  
+> 
+{: .challenge}
 
 ## 11. Áreas de poliedros
 
@@ -309,27 +306,22 @@ y prismas se pueden obtener fórmulas sencillas que permitan calcular el área.
 - **Cono** $V= \frac{\pi r^2 h}{3}$
 - **Esfera** $V= \frac{4}{3} \pi r^3$
 
----
-
-__Actividades propuestas:__
-
-1. Al igual que se realiza en el archivo poliedros areas, dibuja un poliedro de cada tipo de los estudiados anteriormente. Calcula el área y el volumen de los poliedros, comprueba si se cumplen las fórmulas, posteriormente dibuja el desarrollo para comprobar que estás teniendo en cuenta todas las caras de los poliedros.
-
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. Al igual que se realiza en el archivo poliedros areas, dibuja un poliedro de cada tipo de los estudiados anteriormente. Calcula el área y el volumen de los poliedros, comprueba si se cumplen las fórmulas, posteriormente dibuja el desarrollo para comprobar que estás teniendo en cuenta todas las caras de los poliedros.
+> 
+{: .challenge}
 
 ## 13. Principio de Cavalieri
 
-	Si dos o más cuerpos de igual área de la base y la misma altura se cortan por planos paralelos a la base, y
-	las secciones producidas por cada plano en esos cuerpos tienen la misma área, entonces esos cuerpos tienen
-	el mismo volumen.
+Si dos o más cuerpos de igual área de la base y la misma altura se cortan por planos paralelos a la base, y las secciones producidas por cada plano en esos cuerpos tienen la misma área, entonces esos cuerpos tienen el mismo volumen.
 	
 Todas las pirámides y conos con la misma área de la base e igual altura tienen el mismo volumen.
 
----
-
-__Actividades propuestas:__
-
-
-1. Dibuja una construcción en la que se compruebe el principio de Cavalieri. 
-
----
+> 
+> ## Actividades propuestas:
+> 
+> 1. Dibuja una construcción en la que se compruebe el principio de Cavalieri. 
+> 
+{: .challenge}
