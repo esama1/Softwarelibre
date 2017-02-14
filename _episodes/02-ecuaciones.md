@@ -59,7 +59,7 @@ De forma gráfica se puede ver que la $x$ adquiere el valor del punto de corte e
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el fichero recta.ggb encuentra la solución de la ecuación $f(x)=0$ usando sólo las herramientas de GeoGebra.
+> 1. En el fichero *recta.ggb* encuentra la solución de la ecuación $f(x)=0$ usando sólo las herramientas de GeoGebra.
 > 
 {: .challenge}
 
@@ -85,7 +85,7 @@ Una ecuación de segundo grado puede tener:
 > 
 > ## Actividades propuestas:
 > 
-> 1. Calcula a mano la solución de la ecuación $f(x)=g(x)$ donde $f$ y $g$ son las funciones definidas en el fichero segundogrado.fkt.
+> 1. Calcula a mano la solución de la ecuación $f(x)=g(x)$ donde $f$ y $g$ son las funciones definidas en el fichero *segundogrado.fkt*.
 > 
 {: .challenge}
 
@@ -245,11 +245,11 @@ De forma analítica tenemos tres métodos para resolver un sistema del tipo ante
 > 
 > ## Actividades propuestas:
 > 
-> 1.En el archivo rectas1.ggb encontramos dos rectas. En función de sus soluciones ¿qué tipo de sistema forman?
+> 1.En el archivo *rectas1.ggb* encontramos dos rectas. En función de sus soluciones ¿qué tipo de sistema forman?
 > 
 > 2. En caso de que exista, ¿cuál es la solución del sistema anterior?
 > 
-> 3. En el archivo rectas2.kig encontramos otras dos rectas. ¿Qué tipo de sistema forman?
+> 3. En el archivo *rectas2.kig* encontramos otras dos rectas. ¿Qué tipo de sistema forman?
 > 
 > 4. En caso de que tenga solución, ¿cuál es ésta?
 > 
@@ -268,7 +268,7 @@ Una última forma de resolver las ecuaciones no lineales es por el método gráf
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el archivo nolineal.wxmx están definidas las funciones $f$ y $g$. Resuelve el sistema formado por las ecuaciones $f(x)=0$ y $g(x)=0$ en Maxima.
+> 1. En el archivo *nolineal.wxmx* están definidas las funciones $f$ y $g$. Resuelve el sistema formado por las ecuaciones $f(x)=0$ y $g(x)=0$ en Maxima.
 > 
 {: .challenge}
 

@@ -28,9 +28,9 @@ A la hora de estudiar el comportamiento de una función nos encontraremos con pu
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el archivo cortesEjeY, encuentra cuál es el corte de la función  indicada con el eje *Y*. Una vez hecho esto, cambia los rangos donde se dibuja la función para ver si es posible que corte al eje *Y* en otro punto, ¿es esto posible?
+> 1. En el archivo *cortesEjeY.fkt*, encuentra cuál es el corte de la función  indicada con el eje *Y*. Una vez hecho esto, cambia los rangos donde se dibuja la función para ver si es posible que corte al eje *Y* en otro punto, ¿es esto posible?
 >	
-> 2. En el archivo cortesEjeX, encuentra cuál es el corte o los cortes de la función indicada con el eje *X*. Una vez hecho esto, cambia los rangos donde se dibuja la función para ver si es posible que corte al eje *X* en otros punto, ¿es esto posible?¿Podrías generalizar en qué tipo de puntos encontramos estos cortes?
+> 2. En el archivo *cortesEjeX.fkt*, encuentra cuál es el corte o los cortes de la función indicada con el eje *X*. Una vez hecho esto, cambia los rangos donde se dibuja la función para ver si es posible que corte al eje *X* en otros punto, ¿es esto posible?¿Podrías generalizar en qué tipo de puntos encontramos estos cortes?
 > 
 {: .challenge}
 
@@ -44,7 +44,7 @@ que se deduce de la variable independiente). Se representa por Im*(f)*.
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el archivo dominio, intenta deducir cuál es el dominio de la función que se presenta. Para ello presta especial atención al rango de valores en los que hemos pintado dicha función. ¿Qué ocurre en *x=-6*?
+> 1. En el archivo *dominio.fkt*, intenta deducir cuál es el dominio de la función que se presenta. Para ello presta especial atención al rango de valores en los que hemos pintado dicha función. ¿Qué ocurre en *x=-6*?
 >	
 > 2. Para el mismo ejercicios, ¿sabrías ver cuál es la imagen de esa función?
 > 
@@ -62,9 +62,9 @@ Además de conocer puntos interesantes como los cortes con cada eje de coordenad
 > 
 > ## Actividades propuestas
 > 
-> 1. En el archivo continuidad, ¿sabrías ver en qué intervalos la función es continua? ¿Existe algún punto conflictivo? ¿Cómo lo sabes?
+> 1. En el archivo *continuidad.fkt*, ¿sabrías ver en qué intervalos la función es continua? ¿Existe algún punto conflictivo? ¿Cómo lo sabes?
 >	
-> 2. Realiza la misma deducción que en el ejercicio anterior pero usando el archivo continuidad2.
+> 2. Realiza la misma deducción que en el ejercicio anterior pero usando el archivo *continuidad2.fkt*.
 > 
 {: .challenge}
 
@@ -85,9 +85,9 @@ no varía, *x1 < x2 => f (x1) = f (x2)*.
 > 
 > ## Actividades propuestas:
 > 
-> 1. Observa la función representada en el archivo monotonía1 para poder concluir cuáles son los intervalos de crecimiento y decrecimiento de dicha función.
+> 1. Observa la función representada en el archivo *monotonía1.fkt* para poder concluir cuáles son los intervalos de crecimiento y decrecimiento de dicha función.
 >	
-> 2. Utiliza el archivo monotonía2 para calcular los máximos y mínimos de la función que se muestra. Una vez los hayas encontrado, compruébalo utilizando el botón *advanced*.
+> 2. Utiliza el archivo *monotonía2.fkt* para calcular los máximos y mínimos de la función que se muestra. Una vez los hayas encontrado, compruébalo utilizando el botón *advanced*.
 > 
 {: .challenge}
 
@@ -113,7 +113,7 @@ En este caso la pendiente se calcula del siguiente modo: * m=\dfrac{\mbox{increm
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el archivo tipo1 encontrarás una función que corresponde a uno de los tipos visto hasta ahora, ¿a cuál de ellos corresponde?¿Cuál es la pendiente de dicha función? 
+> 1. En el archivo *tipo1.fkt* encontrarás una función que corresponde a uno de los tipos visto hasta ahora, ¿a cuál de ellos corresponde?¿Cuál es la pendiente de dicha función? 
 >	
 > 2. Utiliza la aplicación *KmPlot* para dibujar una función que sea lineal, decreciente y que tenga un corte con el eje *X* en *x=2*.
 > 
@@ -135,7 +135,7 @@ Sea *f(x)=ax^2+bx+c*, entonces:
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el archivo tipo2, encontrarás una función cuadrática. ¿Cuál es su vértice?
+> 1. En el archivo *tipo2.fkt*, encontrarás una función cuadrática. ¿Cuál es su vértice?
 >	
 > 2. Utiliza el archivo del ejercicio anterior para contestar a las siguientes preguntas:
 > 

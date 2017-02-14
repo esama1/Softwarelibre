@@ -32,7 +32,7 @@ Tiene la propiedad de ser la semirrecta que divide al
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el archivo mediatriz, elabora la bisectriz de los ángulos que se han formado. Posteriormente dibuja un ángulo de $45^{\circ}$ y dibuja su bisectriz. 
+> 1. En el archivo *mediatriz.ggb*, elabora la bisectriz de los ángulos que se han formado. Posteriormente dibuja un ángulo de $45^{\circ}$ y dibuja su bisectriz. 
 > 
 > 2. Dibuja un ángulo dada su amplitud,  cambia los nombres de los vértices y dibuja su bisectriz.
 > 
@@ -87,7 +87,7 @@ recta que pasa por ellos recibe el nombre de **recta de Euler**.
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el archivo puntos notables dibuja el circuncentro, incentro y el baricentro. Observa cómo varia la localización de estos puntos según el tipo de triángulo que dibujemos, para ello utiliza la opción de geogebra "Elige y mueve". 
+> 1. En el archivo *puntos notables.ggb* dibuja el circuncentro, incentro y el baricentro. Observa cómo varia la localización de estos puntos según el tipo de triángulo que dibujemos, para ello utiliza la opción de geogebra "Elige y mueve". 
 >	
 > 2. En el triángulo anterior, oculta todas las rectas auxiliares que has dibujado para la construcción de los puntos. Dibuja la circunferencia inscrita y circunscrita. 
 >	
@@ -118,7 +118,7 @@ Puedes consultar en [la página de GeoGebra](https://www.geogebra.org/m/gHPywphA
 > 
 > ## Actividades propuestas:
 > 
-> 1. Dibuja en el fichero ángulos circunferencia el resto de los cuatro tipos de ángulos de manera que cada uno de ellos mida $34^{\circ}$. Dibújalos en color verde.
+> 1. Dibuja en el fichero *ángulos circunferencia.ggb* el resto de los cuatro tipos de ángulos de manera que cada uno de ellos mida $34^{\circ}$. Dibújalos en color verde.
 > 
 {: .challenge}
 
@@ -141,7 +141,7 @@ número de lados que el anterior, construidos sobre los catetos.
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el fichero extensión de Pitágoras, hay dibujado un triángulo rectángulo dónde se aplica la extensión del teorema de Pitágoras con un pentágono regular. 
+> 1. En el fichero *extensión Pitágoras.ggb*, hay dibujado un triángulo rectángulo dónde se aplica la extensión del teorema de Pitágoras con un pentágono regular. 
 > 
 > Repite el ejercicio para un hexágono y para un cuadrado. Piensa como puedes dibujar un triángulo que siempre sea rectángulo. (Pista: puedes utilizar la construcción recta perpendicular).
 > 
@@ -258,7 +258,7 @@ $$C+V=A+2$$
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el archivo poliedros, comprueba que se verifica el teorema de Euler. Dibuja otros poliedros y comprueba que se verifica igualmente. 
+> 1. En el archivo *poliedros.ggb*, comprueba que se verifica el teorema de Euler. Dibuja otros poliedros y comprueba que se verifica igualmente. 
 > 
 {: .challenge}
 
@@ -309,7 +309,7 @@ y prismas se pueden obtener fórmulas sencillas que permitan calcular el área.
 > 
 > ## Actividades propuestas:
 > 
-> 1. Al igual que se realiza en el archivo poliedros areas, dibuja un poliedro de cada tipo de los estudiados anteriormente. Calcula el área y el volumen de los poliedros, comprueba si se cumplen las fórmulas, posteriormente dibuja el desarrollo para comprobar que estás teniendo en cuenta todas las caras de los poliedros.
+> 1. Al igual que se realiza en el archivo *poliedros area.ggb*, dibuja un poliedro de cada tipo de los estudiados anteriormente. Calcula el área y el volumen de los poliedros, comprueba si se cumplen las fórmulas, posteriormente dibuja el desarrollo para comprobar que estás teniendo en cuenta todas las caras de los poliedros.
 > 
 {: .challenge}
 
