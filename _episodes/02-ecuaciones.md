@@ -37,7 +37,7 @@ $$\underset{\underset {\mbox{1º miembro}}{\leftharpoonup }}{x+2}= \underset{\un
 > 
 > 1.De las siguientes ecuaciones, señala el primer miembro, el segundo miembro, la incógnita y el grado:
 > 
-> a) $2x^2+4x=5x-3$
+> a) $$2x^2+4x=5x-3$$
 > b) $3x+7=5x$
 > c) $5a+4b=3a$
 > d) $5a^4+10=\frac{a}{4}$
@@ -96,7 +96,7 @@ Son aquellas que mediante el cambio de variables $z=x^2$ se convierten en una ec
 
 Para resolverlas realizamos los siguientes pasos:
 
-1. Realizamos el cambio de variables $z=x^2$
+1. Realizamos el cambio de variables $$z=x^2$$
 
 2.  Resolvemos la ecuación de segundo grado en términos de $x$
 
