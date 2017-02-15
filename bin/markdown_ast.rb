@@ -5,7 +5,8 @@
 require "kramdown"
 require "json"
 
-markdown = STDIN.read()
+#markdown = STDIN.read()
+markdown = source_text, {auto_ids: false, footnote_nr: 5}
 doc = Kramdown::Document.new(markdown)
 tree = doc.to_hash_a_s_t
 puts JSON.pretty_generate(tree)
