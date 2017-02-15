@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE KigDocument>
+<KigDocument grid="1" axes="1" Version="1.0" CompatibilityVersion="0.7.0">
+ <CoordinateSystem>Euclidean</CoordinateSystem>
+ <Hierarchy>
+  <Data id="1" type="double">-1.81567</Data>
+  <Data id="2" type="double">1.21521</Data>
+  <Data id="3" type="double">2.67768</Data>
+  <Data id="4" type="double">1.3052</Data>
+  <Object id="5" type="FixedPoint">
+   <Parent id="1"/>
+   <Parent id="3"/>
+  </Object>
+  <Data id="6" type="double">-2.26896</Data>
+  <Object id="7" type="FixedPoint">
+   <Parent id="2"/>
+   <Parent id="4"/>
+  </Object>
+  <Data id="8" type="double">-3.35971</Data>
+  <Object id="9" type="FixedPoint">
+   <Parent id="8"/>
+   <Parent id="6"/>
+  </Object>
+  <Object id="10" type="LineAB">
+   <Parent id="5"/>
+   <Parent id="9"/>
+  </Object>
+  <Object id="11" type="LineParallel">
+   <Parent id="10"/>
+   <Parent id="7"/>
+  </Object>
+ </Hierarchy>
+ <View>
+  <Draw shown="true" point-style="Round" color="#0000ff" width="-1" namecalcer="none" object="11" style="SolidLine" font="Ubuntu,11,-1,5,50,0,0,0,0,0"/>
+  <Draw shown="true" point-style="Round" color="#0000ff" width="-1" namecalcer="none" object="9" style="SolidLine" font="Ubuntu,11,-1,5,50,0,0,0,0,0"/>
+  <Draw shown="true" point-style="Round" color="#0000ff" width="-1" namecalcer="none" object="5" style="SolidLine" font="Ubuntu,11,-1,5,50,0,0,0,0,0"/>
+  <Draw shown="true" point-style="Round" color="#0000ff" width="-1" namecalcer="none" object="10" style="SolidLine" font="Ubuntu,11,-1,5,50,0,0,0,0,0"/>
+  <Draw shown="true" point-style="Round" color="#0000ff" width="-1" namecalcer="none" object="7" style="SolidLine" font="Ubuntu,11,-1,5,50,0,0,0,0,0"/>
+ </View>
+</KigDocument>
