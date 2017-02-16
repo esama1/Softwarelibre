@@ -17,7 +17,7 @@ La aparición de Guadalinex en las aulas nace de la necesidad de que los alumnos
 
 ## Desarrollo de Guadalinex:
 
-Para poder contextualizar el desarrollo de Guadalinex hemos redactado el siguiente resumen basándonos en [(Serrano, F., 2004)](https://www.mhe.es/portales/portal_4/archivos/sec2_manual1.pdf).
+Para poder contextualizar el desarrollo de Guadalinex hemos redactado el siguiente resumen basándonos en [este manual de Guadalinex](https://www.mhe.es/portales/portal_4/archivos/sec2_manual1.pdf).
 
 Guadalinex nace como una distribución destinada a dar cumplimiento al Decreto 72/2003,
 en el que la Junta de Andalucía opta por el Software Libre como instrumento para el impulso de
