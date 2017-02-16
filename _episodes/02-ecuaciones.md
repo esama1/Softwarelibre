@@ -48,31 +48,31 @@ $$\underset{\underset {\mbox{1º miembro}}{\leftharpoonup }}{x+2}= \underset{\un
 
 ## 2. Ecuaciones de primer grado
 
-Una ecuación de primer grado con una incógnita es una ecuación del tipo $ax+b=0$ con $a\neq 0$, $a,b$ valores conocidos. Se trata de hallar el valor de la incógnita $x$.
+Una ecuación de primer grado con una incógnita es una ecuación del tipo *ax+b=0* con $a\neq 0$, *a* y *b* valores conocidos. Se trata de hallar el valor de la incógnita *x*.
 
 Cualquier ecuación de primer grado con una incógnita se podrá poner de la forma anterior. Para ello, se podrán ir realizando operaciones a los dos lados de la igualdad, de forma que si se realiza una operación en un lado también ha de hacerse en el otro.
 
-Para despejar $x$ de la ecuación anterior, restamos $b$ a ambos lados de la igualdad, y, posteriormente, dividimos por $a$ también en ambos miembros. Esto hace que $x=\frac{-b}{a}$.
+Para despejar *x* de la ecuación anterior, restamos *b* a ambos lados de la igualdad, y, posteriormente, dividimos por *a* también en ambos miembros. Esto hace que $x=\frac{-b}{a}$.
 
-De forma gráfica se puede ver que la $x$ adquiere el valor del punto de corte entre las rectas $y=ax+b$ e $y=0$. Por ello, una ecuación de este tipo siempre va a tener una única solución.
+De forma gráfica se puede ver que la *x* adquiere el valor del punto de corte entre las rectas *y=ax+b* e *y=0*. Por ello, una ecuación de este tipo siempre va a tener una única solución.
 
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el fichero *recta.ggb* encuentra la solución de la ecuación $f(x)=0$ usando sólo las herramientas de GeoGebra.
+> 1. En el fichero *recta.ggb* encuentra la solución de la ecuación *f(x)=0* usando sólo las herramientas de GeoGebra.
 > 
 {: .challenge}
 
 
 ## 3. Ecuaciones de segundo grado
 
-Una ecuación de segundo grado con una incógnita es una ecuación del tipo $ax^2+bx+c=0$, con $a\neq 0$ y $a,b,c$ datos conocidos. En este caso la ecuación se resuelve mediante la siguiente fórmula:
+Una ecuación de segundo grado con una incógnita es una ecuación del tipo $ax^2+bx+c=0$, con $a\neq 0$ y *a* ,*b*, *c* datos conocidos. En este caso la ecuación se resuelve mediante la siguiente fórmula:
 
 $$x=\frac{-b\pm \sqrt{b^2-4ac}}{2a},$$
 
 donde $b^2-4ac$ se denomina **discriminante**.
 
-De forma gráfica se obtiene realizando el corte de la parábola $y=ax^2+bx+c$ con el eje $y=0$.
+De forma gráfica se obtiene realizando el corte de la parábola $y=ax^2+bx+c$ con el eje *y=0*.
 
 Una ecuación de segundo grado puede tener:
 
@@ -85,7 +85,7 @@ Una ecuación de segundo grado puede tener:
 > 
 > ## Actividades propuestas:
 > 
-> 1. Calcula a mano la solución de la ecuación $f(x)=g(x)$ donde $f$ y $g$ son las funciones definidas en el fichero *segundogrado.fkt*.
+> 1. Calcula a mano la solución de la ecuación *f(x)=g(x)* donde *f* y *g* son las funciones definidas en el fichero *segundogrado.fkt*.
 > 
 {: .challenge}
 
