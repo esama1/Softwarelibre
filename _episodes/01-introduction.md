@@ -41,7 +41,7 @@ Si buscamos la versión que tienen los alumnos de Andalucía en el portatil que 
 >	
 >Además, es posible realizar cálculos matemáticos complejos como funciones y fórmulas. También es posible añadir texto sobre la superficie de la representación y obtener información sobre cada uno de los puntos creados. El proyecto puede ser exportado a diferentes formatos, entre ellos EPS, SVG y PNG.
 	
-![carmetalimg](http://i.utdstc.com/screen/windows/desc/carmetal.jpg)
+![carmetalimg](http://carmetal.org/images/interface/home.gif)
 
 > **GeoGebra**: Geometría
 > 
