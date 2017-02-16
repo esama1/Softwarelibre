@@ -96,19 +96,19 @@ Son aquellas que mediante el cambio de variables $z=x^2$ se convierten en una ec
 
 Para resolverlas realizamos los siguientes pasos:
 
-1. Realizamos el cambio de variables $$z=x^2$$
+1. Realizamos el cambio de variables $z=x^2$
 
-2.  Resolvemos la ecuación de segundo grado en términos de $x$
+2.  Resolvemos la ecuación de segundo grado en términos de *x*
 
 3. Deshacemos el cambio de varibles $x=\pm\sqrt{z}$ 
 
 ## 5. Ecuaciones de segundo grado incompletas
 
-Son aquellas en las que o $b$ o $c$ son nulos.
+Son aquellas en las que o *b* o *c* son nulos.
 
-- En caso de que $b=0$ tendremos: $ax^2+c=0$ que se resuelve como $x=\pm\sqrt{\frac{-c}{a}}$.
+- En caso de que *b=0* tendremos: $ax^2+c=0$ que se resuelve como $x=\pm\sqrt{\frac{-c}{a}}$.
 
-- En caso de que $c=0$ tendremos: $ax^2+bx=0$ que, sacando factor común tenemos $x(ax+b)=0$. De donde tenemos que $x=0$ y que $ax+b=0$.
+- En caso de que *c=0* tendremos: $ax^2+bx=0$ que, sacando factor común tenemos $x(ax+b)=0$. De donde tenemos que *x=0* y que *ax+b=0*.
 
 
 ## 6. Ecuaciones con radicales
@@ -128,7 +128,7 @@ De esta forma, el objetivo es operar los términos de cada uno de los miembros d
 
 $$\log_a(f(x))=\log_a(g(x)).$$
 
-Para que se cumpla la igualdad anterior se tiene que verificar que $f(x)=g(x)$. Por tanto, pasaremos a resolver esta última ecuación.
+Para que se cumpla la igualdad anterior se tiene que verificar que *f(x)=g(x)*. Por tanto, pasaremos a resolver esta última ecuación.
 
 Una vez resuelta hay que comprobar que la solución que estamos obteniendo es realmente solución de nuestra ecuación, ya que la función logaritmo no está definida sobre todos los valores reales, sólo para aquellos que son estrictamente mayores que 0.
 
@@ -155,7 +155,7 @@ Recordemos las propiedades de la potencias:
 \hline
 \end{tabular} 
 
-Al igual que ocurría con las ecuaciones logarítmicas, si tenemos que $a^{f(x)}=a^{g(x)}$ se tiene que $f(x)=g(x)$.
+Al igual que ocurría con las ecuaciones logarítmicas, si tenemos que $a^{f(x)}=a^{g(x)}$ se tiene que *f(x)=g(x)*.
 
 Por todo esto, para resolver una ecuación exponencial primero tendremos que aplicar propiedades para poder llegar a tener en ambos miembros de la ecuación la misma base. Una vez lleguemos a este punto, igualamos los exponentes y resolvemos la ecuación.
 
@@ -164,13 +164,17 @@ En caso de que no se pueda llegar a lo que ocurría anteriormente, tendremos que
 ## 9. Ecuaciones trigonométricas
 
 Son ecuaciones en las que aparecen funciones trigonométricas. Para resolverlas haremos uso de las fórmulas trigonométricas que conocemos:
-\begin{itemize}
-\item $\sen^2{x}+ \cos^2{x} =1$
-\item $\tg{x}= \dfrac{\sen{x}}{\cos{x}}$
-\item $ \cosec{x}=\dfrac{1}{\sen{x}} $
-\item $ \sec{x}=\dfrac{1}{\cos{x}} $
-\item $ \cotg{x}=\dfrac{1}{\tg{x}}$
-\end {itemize}
+
+- $\sen^2{x}+ \cos^2{x} =1$
+
+- $\tg{x}= \dfrac{\sen{x}}{\cos{x}}$
+
+- $ \cosec{x}=\dfrac{1}{\sen{x}} $
+
+- $ \sec{x}=\dfrac{1}{\cos{x}} $
+
+- $ \cotg{x}=\dfrac{1}{\tg{x}}$
+
 
 Además de las siguientes propiedades:
 
@@ -257,7 +261,7 @@ De forma analítica tenemos tres métodos para resolver un sistema del tipo ante
 
 ## 11. Sistemas de 2 ecuaciones no lineales con 2 incógnitas
 
-Los sistemas de ecuaciones no lineales son aquellas en las que al menos una de las ecuaciones no es del tipo $ax+by+c=0$ o equivalente. 
+Los sistemas de ecuaciones no lineales son aquellas en las que al menos una de las ecuaciones no es del tipo *ax+by+c=0* o equivalente. 
 
 Para resolver este tipo de ecuaciones, usamos por lo general el método de sustitución. Para ello, despejamos una de las incógnitas de una de las ecuaciones (la que parezca más sencilla de despejar) y la sustituimos en la otra.
 
@@ -268,7 +272,7 @@ Una última forma de resolver las ecuaciones no lineales es por el método gráf
 > 
 > ## Actividades propuestas:
 > 
-> 1. En el archivo *nolineal.wxmx* están definidas las funciones $f$ y $g$. Resuelve el sistema formado por las ecuaciones $f(x)=0$ y $g(x)=0$ en Maxima.
+> 1. En el archivo *nolineal.wxmx* están definidas las funciones *f* y *g*. Resuelve el sistema formado por las ecuaciones *f(x)=0* y *g(x)=0* en Maxima.
 > 
 {: .challenge}
 
