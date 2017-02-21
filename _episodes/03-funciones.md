@@ -11,7 +11,7 @@ keypoints:
 - "Realización de ejercicios"
 ---
 
-##1. Definición de función
+## 1. Definición de función
 Antes de plantear qué es una función necesitamos la siguiente definición previa.
 
 **Variable dependiente** es la que está en función de otra que denominamos variable independiente. La variable dependiente se suele designar con la letra *y*, y la **variable independiente** con la letra *x*.
@@ -34,7 +34,7 @@ A la hora de estudiar el comportamiento de una función nos encontraremos con pu
 > 
 {: .challenge}
 
-##2. Dominio e imagen 
+## 2. Dominio e imagen 
 El **dominio** o campo de existencia de una función es el conjunto de valores que puede tomar la variable independiente
 *x* (variable que se fija previamente). Se representa por Dom*(f)*.
 
@@ -51,7 +51,7 @@ que se deduce de la variable independiente). Se representa por Im*(f)*.
 {: .challenge}
 
 
-##3. Continuidad
+## 3. Continuidad
 
 Además de conocer puntos interesantes como los cortes con cada eje de coordenadas, nos interesa saber si hay puntos donde la función no esté definida, es decir, si la función es continua o si existen discontinuidades. Para ello necesitamos definir:
 
@@ -69,7 +69,7 @@ Además de conocer puntos interesantes como los cortes con cada eje de coordenad
 {: .challenge}
 
 
-##4. Monotonía 
+## 4. Monotonía 
 
 - Una función *y = f (x)* es **creciente** cuando al aumentar la variable independiente aumenta también la variable dependiente,  *x1 < x2 => f (x1) < f (x2)*. 
 
@@ -91,12 +91,12 @@ no varía, *x1 < x2 => f (x1) = f (x2)*.
 > 
 {: .challenge}
 
-##5. Funciones constantes
+## 5. Funciones constantes
 
 Una función **constante** es aquella en la cual el valor de la variable dependiente siempre es el mismo sea cual sea el valor de la variable independiente. Su gráfica es una recta paralela al eje de abscisas *X* y su expresión algebraica es *y = n*.
 
 
-##6. Funciones lineales
+## 6. Funciones lineales
 
 Las funciones **lineales** son aquellas cuya gráfica es una línea recta que pasa por el origen de coordenadas; su expresión algebraica es *y = mx*.
 
@@ -104,7 +104,7 @@ En la función lineal *y = mx*, al coeficiente *m* se le llama **pendiente** de 
 independiente; *m=y/x*.
 Su valor es la medida del crecimiento o decrecimiento de la recta de ecuación *y = mx*.
 
-##7. Funciones afines
+## 7. Funciones afines
 
 Las funciones **afines** son aquellas cuya gráfica es una línea recta que no pasa por el origen de coordenadas; su expresión algebraica es *y = mx + n* donde *m* es la pendiente de la recta y *n* es la ordenada en el origen.
 
@@ -119,7 +119,7 @@ En este caso la pendiente se calcula del siguiente modo: * m=\dfrac{\mbox{increm
 > 
 {: .challenge}
 
-##8. Funciones cuadráticas
+## 8. Funciones cuadráticas
 Las funciones **cuadráticas** son aquellas cuya expresión es un polinomio de segundo grado, esto es, funciones de la forma *y=f(x)= ax^2+ bx + c*. Sus gráficas reciben el nombre de parábolas.
 
 Este tipo de función presenta ciertas propiedades interesantes en su representación gráfica.
