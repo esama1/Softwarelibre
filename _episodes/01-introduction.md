@@ -148,3 +148,5 @@ Nuestro objetivo es crear material didáctico, de distintos temas incluidos en e
 
 La parte teórica de esta sección está obtenida de los apuntes elaborados por el grupo de Profesores de Matemáticas Aleph-Ronda que pueden encontrar en este [link](//ies.villablanca.madrid.educa.madrid.org/web/departamentos/matematicas/ ).
 
+En cuanto a los ejercicios, podéis encontrar los ficheros necesarios en el siguiente [enlace](https://drive.google.com/drive/folders/0B_HZyY8sIS6UT1lFck5fbXExQXc?usp=sharing).
+
